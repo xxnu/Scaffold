@@ -1,7 +1,9 @@
 # Scaffold
 
 Scaffold bootstrap with bower & NPM. 
+
 To set up: 
+
 $bower install
 
 $sudo npm install
