@@ -6,7 +6,6 @@ var gulp = require('gulp'),
     bower = require('gulp-bower'),
     concat = require('gulp-concat'),
     uglify = require('gulp-uglify'),
-    concat = require('gulp-concat'),
     image = require('gulp-image'),
     reload = browserSync.reload;
 
